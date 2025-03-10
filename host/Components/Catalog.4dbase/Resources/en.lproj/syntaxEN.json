@@ -1,0 +1,28 @@
+{
+	"_method_": {},
+	"cs.Catalog": {
+		"Catalog": {
+			"new()": {
+				"Syntax": "**.new**()",
+				"Params": [],
+				"Summary": ""
+			}
+		}
+	},
+	"Catalog": {
+		"get xml()": {
+			"Syntax": "**.get xml**() : Text",
+			"Params": [
+				[
+					"",
+					"Text",
+					"<-"
+				]
+			],
+			"Summary": ""
+		},
+		"xml": {
+			"Syntax": "xml : Text"
+		}
+	}
+}
